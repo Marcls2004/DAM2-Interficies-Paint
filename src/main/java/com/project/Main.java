@@ -17,7 +17,7 @@ public class Main extends Application {
         Scene scene = new Scene(root);
 
         stage.setScene(scene);
-        stage.setTitle("Exemple 0605 - Paint");
+        stage.setTitle("Paint");
         stage.setResizable(false);
 
         if (!System.getProperty("os.name").contains("Mac")) {
